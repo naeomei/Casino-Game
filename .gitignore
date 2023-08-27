@@ -13,3 +13,7 @@ SlotMachineGame/SlotMachineGame/obj/project.assets.json
 *.cache
 *.cs
 *.editorconfig
+*.v2
+*.bin
+SlotMachineGame/.vs/SlotMachineGame/v17/.suo
+*.cache
