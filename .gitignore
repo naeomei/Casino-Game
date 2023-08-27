@@ -10,3 +10,6 @@ SlotMachineGame/SlotMachineGame/obj/SlotMachineGame.csproj.nuget.dgspec.json
 *.cache
 SlotMachineGame/SlotMachineGame/obj/project.assets.json
 *.cs
+*.cache
+*.cs
+*.editorconfig
