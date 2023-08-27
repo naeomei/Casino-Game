@@ -9,9 +9,7 @@ SlotMachineGame/SlotMachineGame/obj/Debug/net7.0/SlotMachineGame.AssemblyInfoInp
 SlotMachineGame/SlotMachineGame/obj/SlotMachineGame.csproj.nuget.dgspec.json
 *.cache
 SlotMachineGame/SlotMachineGame/obj/project.assets.json
-*.cs
 *.cache
-*.cs
 *.editorconfig
 *.v2
 *.bin
