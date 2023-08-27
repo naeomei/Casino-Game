@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{C95FFA67-D98A-4582-8341-12113A67E6EF}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SlotMachineGame PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SlotMachineGame/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="SlotMachineGame/Views/Home/Index.cshtml" Line="18" Column="1" />
+      <File FileName="SlotMachineGame/wwwroot/js/site.js" Line="67" Column="1" />
+      <File FileName="SlotMachineGame/Views/Home/Privacy.cshtml" Line="8" Column="1" />
+      <File FileName="SlotMachineGame/wwwroot/css/site.css" Line="66" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SlotMachineGame" expanded="True">
+            <Node name="SlotMachineGame" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
