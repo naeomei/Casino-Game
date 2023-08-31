@@ -6,6 +6,10 @@ namespace SlotMachineGame.Controllers;
 
 public class HomeController : Controller
 {
+
+    List<HandModel> hands;
+
+
     private readonly ILogger<HomeController> _logger;
 
     public HomeController(ILogger<HomeController> logger)
@@ -22,6 +26,22 @@ public class HomeController : Controller
     {
         return View();
     }
+
+
+    //BlackJack
+    public IActionResult MakeHand(string owner, CardModel Card)
+    {
+        HandModel hand = new HandModel(owner,Card);
+        hands.Add( hand);
+
+        return View("BlackJackView");
+    }
+
+
+
+
+
+
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
