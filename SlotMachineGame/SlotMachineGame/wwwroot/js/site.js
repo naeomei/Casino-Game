@@ -1,7 +1,20 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿(function () {
+    const wheel = document.querySelector('.wheel');
+    const startButton = document.querySelector('.button');
+    let deg = 0;
 
-// Write your JavaScript code.
+    startButton.addEventListener('click', () => {
+        startButton.style.pointerEvents = 'none';
+        deg = Math.floor(5000 + Math.random() * 5000);
+        wheel.style.transition = 'all 10s ease-out';
+        wheel.style.transform = `rotate(${deg}deg)`;
+
+    });
+
+    wheel.addEventListener('transitionend', () => {
+
+    });
+})();
 
 const options = ["Cherry", "Bells", "Bars", "Sevens", "..."]; // Add more options
 

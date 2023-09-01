@@ -22,6 +22,16 @@ public class HomeController : Controller
         return View();
     }
 
+    public IActionResult BlackJackView()
+    {
+        return View();
+    }
+    public IActionResult RouletteWheel()
+    {
+        return View();
+    }
+
+
     public IActionResult Privacy()
     {
         return View();

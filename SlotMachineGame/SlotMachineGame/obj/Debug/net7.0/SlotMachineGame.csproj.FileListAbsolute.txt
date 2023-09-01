@@ -29,3 +29,34 @@
 /Users/naeomei/Projects/SlotMachineGame/SlotMachineGame/obj/Debug/net7.0/SlotMachineGame.pdb
 /Users/naeomei/Projects/SlotMachineGame/SlotMachineGame/obj/Debug/net7.0/SlotMachineGame.genruntimeconfig.cache
 /Users/naeomei/Projects/SlotMachineGame/SlotMachineGame/obj/Debug/net7.0/ref/SlotMachineGame.dll
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\bin\Debug\net7.0\appsettings.json
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\bin\Debug\net7.0\SlotMachineGame.staticwebassets.runtime.json
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\bin\Debug\net7.0\SlotMachineGame.exe
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\bin\Debug\net7.0\SlotMachineGame.deps.json
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\bin\Debug\net7.0\SlotMachineGame.runtimeconfig.json
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\bin\Debug\net7.0\SlotMachineGame.dll
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\bin\Debug\net7.0\SlotMachineGame.pdb
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\SlotMachineGame.csproj.AssemblyReference.cache
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\SlotMachineGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\SlotMachineGame.AssemblyInfoInputs.cache
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\SlotMachineGame.AssemblyInfo.cs
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\SlotMachineGame.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\SlotMachineGame.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\SlotMachineGame.RazorAssemblyInfo.cache
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\SlotMachineGame.RazorAssemblyInfo.cs
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\staticwebassets\msbuild.SlotMachineGame.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\staticwebassets\msbuild.build.SlotMachineGame.props
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SlotMachineGame.props
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SlotMachineGame.props
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\scopedcss\bundle\SlotMachineGame.styles.css
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\scopedcss\projectbundle\SlotMachineGame.bundle.scp.css
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\SlotMachineGame.dll
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\refint\SlotMachineGame.dll
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\SlotMachineGame.pdb
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\SlotMachineGame.genruntimeconfig.cache
+C:\Users\Joshua Singvah\Documents\GitHub\Casino-Game\SlotMachineGame\SlotMachineGame\obj\Debug\net7.0\ref\SlotMachineGame.dll
